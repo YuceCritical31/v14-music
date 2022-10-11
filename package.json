@@ -1,0 +1,33 @@
+{
+  "name": "v14music-atahan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Atahan#8888",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/voice": "^0.7.5",
+    "@distube/soundcloud": "^1.2.2",
+    "@distube/spotify": "^1.4.2",
+    "@distube/yt-dlp": "^1.1.3",
+    "@distube/ytdl-core": "^4.11.5",
+    "chalk": "^4.1.2",
+    "common-tags": "^1.8.2",
+    "delay": "^5.0.0",
+    "discord.js": "^14.1.2",
+    "distube": "^4.0.3",
+    "dotenv": "^14.3.2",
+    "ffmpeg-static": "^4.4.1",
+    "figlet": "^1.5.2",
+    "libsodium-wrappers": "^0.7.9",
+    "lyrics-finder": "^21.7.0",
+    "opusscript": "^0.0.8",
+    "pnpm": "^7.13.4"
+  },
+  "devDependencies": {
+    "node": "^17.0.1"
+  }
+}
